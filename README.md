@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Math13Net
 - 👀 I’m interested in Math - Python - Motobike
 - 🌱 I’m currently learning Data Science - Machine Learning - Deep Learning (using Python)
-- 💞️ I’m looking to Collaborate on Open Source Project using AI
+- 💞️ I’m looking for an Open Source Project using AI
 - 📫 How to reach me : christie dot vassilian at ac minus montpellier dot fr
 
 <!---
