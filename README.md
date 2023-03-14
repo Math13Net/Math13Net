@@ -1,3 +1,5 @@
+L'essentiel n'est pas de vivre mais de bien vivre
+
 - 👋 Hi, I’m @Math13Net - - - [change your view on math](https://youtu.be/3icoSeGqQtY) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 - 👀 I’m interested in Math - Python - Motobike
 - 🌱 I’m currently learning Data Science - Machine Learning - Deep Learning (using Python)
