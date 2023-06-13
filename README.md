@@ -3,7 +3,7 @@
 - 👀 I’m interested in [Deep Learning : my OpenSource website](https://sites.google.com/view/introduction-deep-learning/accueil)
 - 🌱 I’m currently ... [nowhere](https://www.youtube.com/watch?v=EEsbM0gKrME) ...
 
-[good have have fun](https://youtu.be/CwzjlmBLfrQ)
+[have fun](https://youtu.be/CwzjlmBLfrQ)
 
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
