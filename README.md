@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Math13Net - - - [change your view on math](https://youtu.be/3icoSeGqQtY) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 - 👀 I’m interested in [Deep Learning : my OpenSource website](https://sites.google.com/view/introduction-deep-learning/accueil)
-- 🌱 I’m currently ... nowhere ...
+- 🌱 I’m currently ... [nowhere](https://www.youtube.com/watch?v=h3iDZhZzdFI) ...
 
 [good have have fun](https://youtu.be/CwzjlmBLfrQ)
 
