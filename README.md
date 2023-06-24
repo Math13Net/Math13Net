@@ -8,7 +8,7 @@
 **“ It always seems impossible until it is done ” Nelson Mandela**  
 
 [One of the Greatest Speeches Ever | Steve Jobs](https://youtu.be/Tuw8hxrFBH8) - Keep looking, don't settle  
-**"Have the courage to follow your heard and intuition ; they somehow already know what you really want to become ; evrything else is secondary" Steve Jobs**
+**"Have the courage to follow your heard and intuition ; they somehow already know what you really want to become ; everything else is secondary" Steve Jobs**
 
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
