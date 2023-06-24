@@ -3,9 +3,7 @@
 - 👀 I’m interested in Deep Learning - see [my website](https://sites.google.com/view/introduction-deep-learning/accueil) for more info
 - 🌱 I’m currently ... [nowhere](https://youtu.be/gWRzopyZBSA) ...
 
-[have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo)
-
-**“ It always seems impossible until it is done ” Nelson Mandela**  
+[have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - **“ It always seems impossible until it is done ” Nelson Mandela**  
 
 [One of the Greatest Speeches Ever | Steve Jobs](https://youtu.be/Tuw8hxrFBH8)  
 **"Have the courage to follow your heard and intuition ; they somehow already know what you really want to become ; everything else is secondary" Steve Jobs**
