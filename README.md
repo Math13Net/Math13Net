@@ -3,7 +3,8 @@
 - 👀 I’m interested in Deep Learning - see [my website](https://sites.google.com/view/introduction-deep-learning/accueil) for more info
 - 🌱 I’m currently ... [nowhere](https://youtu.be/gWRzopyZBSA) ...
 
-[have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - **“ It always seems impossible until it is done ” Nelson Mandela**  
+[have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - **“ It always seems impossible until it is done ” Nelson Mandela**
+[nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
