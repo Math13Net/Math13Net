@@ -1,9 +1,7 @@
 
 - 👋 Hi, I’m @Math13Net - - - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 - 👀 I’m interested in Deep Learning - see [my website](https://sites.google.com/view/introduction-deep-learning/accueil) for more info
-- 🌱 I’m currently ... [nowhere](https://youtu.be/gWRzopyZBSA) ...
-
-[have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo)  
+- 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo)  
 **“ It always seems impossible until it is done ” Nelson Mandela**  
 [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 
