@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @Math13Net - - - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 - 👀 I’m interested in Deep Learning - see [my website](https://sites.google.com/view/introduction-deep-learning/accueil) for more info
-- 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo)  
+- 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA) 
 **“ It always seems impossible until it is done ” Nelson Mandela**  
-[nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
+
 
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
