@@ -8,5 +8,6 @@
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- [Think Different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
 
 
