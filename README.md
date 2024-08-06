@@ -4,7 +4,7 @@
 - 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 - [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
 - [play different : math for love](https://mathforlove.com/)
-- [savoir respirer](https://youtu.be/RIjjUxwaqTI?si=Es2jer2tbDO15Q9s)
+- [savoir respirer](https://youtu.be/RIjjUxwaqTI?si=Es2jer2tbDO15Q9s) puis [apprendre à respirer](https://www.mrjamesnestor.com/breathing-videos)
 
 **“ It always seems impossible until it is done ” Nelson Mandela**  
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
