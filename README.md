@@ -8,7 +8,7 @@
 
 **“ It always seems impossible until it is done ” Nelson Mandela**  
   
-**L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au QUOTIDIEN**  
+**L'INTEGRATION des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au QUOTIDIEN**  
   
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
 <!---
