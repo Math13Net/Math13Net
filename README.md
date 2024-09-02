@@ -7,6 +7,9 @@
 - [savoir respirer](https://youtu.be/RIjjUxwaqTI?si=Es2jer2tbDO15Q9s) puis [apprendre à respirer](https://www.mrjamesnestor.com/breathing-videos)
 
 **“ It always seems impossible until it is done ” Nelson Mandela**  
+  
+**“ L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien - Christie Vassilian ;))**  
+  
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
