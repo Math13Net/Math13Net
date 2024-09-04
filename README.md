@@ -5,7 +5,6 @@
 - [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
 - [play different : math for love](https://mathforlove.com/)
 - [savoir respirer](https://youtu.be/RIjjUxwaqTI?si=Es2jer2tbDO15Q9s) puis [apprendre à respirer](https://www.mrjamesnestor.com/breathing-videos)
-- [un bon prof, really ?](https://youtu.be/BOIJ7pbIDhA?si=a_L6hdRgR6l4Kkca)
 
 **“ It always seems impossible until it is done ” Nelson Mandela**  
   
