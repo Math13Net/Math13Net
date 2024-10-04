@@ -6,14 +6,18 @@
 - [play different : math for love](https://mathforlove.com/)
 - [savoir respirer](https://youtu.be/RIjjUxwaqTI?si=Es2jer2tbDO15Q9s) puis [apprendre à respirer](https://www.mrjamesnestor.com/breathing-videos)
 
-**“ It always seems impossible until it is done ” Nelson Mandela**  
+** “ It always seems impossible until it is done ” Nelson Mandela**  
   
-**L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
+** L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
+
+** This book has changed my life - stangely enough i just bought for 5 € - I hope you too will read it one day : [le pouvoir de la confiance by Sphephen M.R. Convey](https://www.amazon.fr/pouvoir-confiance-Stephen-Covey/dp/229002578X)
   
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
 --->
 
 
