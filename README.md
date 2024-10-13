@@ -11,6 +11,8 @@
 ** L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
 
 ** This book has changed my life (stangely I just bought for 5 €) - I hope you too will read it one day : [le pouvoir de la confiance by Stephen M.R. Convey](https://www.amazon.fr/pouvoir-confiance-Stephen-Covey/dp/229002578X)
+
+** This one is interesting too :  [se libérer du regard des autres](https://youtu.be/3-FiqgVzXqY?si=8HbjLOqddBy9L13J)
   
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
 <!---
