@@ -15,7 +15,7 @@
 ** This one is interesting too :  [se libérer du regard des autres](https://youtu.be/3-FiqgVzXqY?si=8HbjLOqddBy9L13J)
   
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
-  and of course [my favorite song](https://youtu.be/BR6pYICqZT0?si=1ZS4wxUYN_nfHw3s)
+  and my favourite sonf of course [here](https://youtu.be/BR6pYICqZT0?si=1ZS4wxUYN_nfHw3s) and [there](https://www.youtube.com/watch?v=rrVDATvUitA&list=RDrrVDATvUitA&start_radio=1)
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
