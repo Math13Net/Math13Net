@@ -17,7 +17,7 @@
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
   and my favourite sonf of course [here](https://youtu.be/BR6pYICqZT0?si=1ZS4wxUYN_nfHw3s) , [there](https://www.youtube.com/watch?v=rrVDATvUitA&list=RDrrVDATvUitA&start_radio=1) and [elsewhere](https://youtu.be/_ifJapuqYiU?si=wWtgtUI7J8_9IsIF)
 
-[Journée officielle de la Gentilesse](https://youtu.be/g5dA9nCWLV0?si=jYn0CEOS5_UCEiJs)
+[Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/)
 
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
