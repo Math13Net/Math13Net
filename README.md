@@ -1,4 +1,5 @@
 [color=#26B260]If you don't follow your dreams who will ?[/color]
+ <span style="color:blue">du texte *bleu*</span>
 
 - 👋 Hi, I’m @Math13Net - - - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 - 👀 I’m interested in Deep Learning - see [my website](https://sites.google.com/view/introduction-deep-learning/accueil) for more info
