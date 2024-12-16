@@ -20,6 +20,8 @@ If you don't follow your dreams who will ?
 
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 
+[pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
+
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
