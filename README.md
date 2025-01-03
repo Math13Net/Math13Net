@@ -16,7 +16,7 @@ If you don't follow your dreams who will ?
 ** This one is interesting too :  [se libérer du regard des autres](https://youtu.be/3-FiqgVzXqY?si=8HbjLOqddBy9L13J)
   
   this is my [contact address](https://youtu.be/nq-dchJPXGA)
-  and one of my favourite song [here](https://youtu.be/BR6pYICqZT0?si=1ZS4wxUYN_nfHw3s)
+  and [a lovely song](https://youtu.be/BR6pYICqZT0?si=1ZS4wxUYN_nfHw3s)
 
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 
