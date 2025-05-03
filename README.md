@@ -1,5 +1,7 @@
 If you don't follow your dreams who will ?
 
+Oser être soi-même, tout simplement, sans chercher à faire comme il faut ou à être quelqu'un d'autre s'avère donc essentiel. Sur ce chemin de la créativité spontanée, reste une dernière entrave fondamentale, celles de nos dépendances, car elles nous poussent à nous contenter de peu, de cette inertie d'un petit moi repu, qui se satisfait d'être plein, d'avoir rempli ses vides. Nos dépendances nous arriment à nos automatismes, à de faux besoins ou à des manques qui nous paraissent insupportables, nous empêchant d'inventer de nouveaux possibles et de prendre notre envol from "Osez votre singularité"
+
 Welcome to Smile & Co !
 
 - 👋 Hi, I’m @Math13Net - - - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
