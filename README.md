@@ -29,24 +29,17 @@ Welcome to Smile & Co !
 Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave…  
 📨 376,4 milliards de mails sont envoyés chaque jour dans le monde (chiffres 2025).  
 🗓️ Soit 137 000 milliards de mails par an.  
-
 ⚡ Un seul mail consomme en moyenne 1 Wh (envoi, stockage, lecture).  
 ➤ Impact énergétique mondial  
 137 000 milliards de mails/an × 1 Wh = 137 TWh par an  
-
 🏭 Équivalent carbone  
 1 kWh ≈ 400 g CO₂e  
 ➤ 137 TWh/an ≈ 54,8 millions de tonnes de CO₂e/an  
-
 🌍 Comparaisons parlantes  
 🚗 27 millions de voitures essence (2 tonnes CO₂e/an/voiture)  
-
 🏙️ Plus que toute l’électricité consommée par le Danemark en un an  
-
 ⚛️ Environ 13 fois plus que 2 centrales nucléaires à pleine puissance  
-
 🌲 Il faudrait planter 1,1 milliard d’arbres pour compenser  
-
 🧠 À méditer :  Ce n’est qu’un mail, oui. Mais ce n’est jamais “rien” à l’échelle de la planète.  
 
 
