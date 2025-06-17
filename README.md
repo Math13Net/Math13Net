@@ -26,28 +26,28 @@ Welcome to Smile & Co !
 
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
+Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave…  
+📨 376,4 milliards de mails sont envoyés chaque jour dans le monde (chiffres 2025).  
+🗓️ Soit 137 000 milliards de mails par an.  
 
-Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave...  
-🌍 Impact énergétique mondial des e-mails – Synthèse  
-📩 Volume mondial  
-Mails échangés dans le monde (2024) :  
-≈ 347 milliards de mails par jour  
-≈ 126 655 milliards de mails par an  
-
-🔋 Estimation du coût énergétique  
-Consommation moyenne par mail (envoi + stockage + lecture) : ≈ 0,3 Wh  
-Consommation mondiale annuelle : ≈ 38 TWh (térawattheures)  
+⚡ Un seul mail consomme en moyenne 1 Wh (envoi, stockage, lecture).  
+➤ Impact énergétique mondial  
+137 000 milliards de mails/an × 1 Wh = 137 TWh par an  
 
 🏭 Équivalent carbone  
-1 kWh ≈ 400 g CO₂e (moyenne mondiale)  
-→ 38 TWh ≈ 15,2 millions de tonnes de CO₂e par an  
+1 kWh ≈ 400 g CO₂e  
+➤ 137 TWh/an ≈ 54,8 millions de tonnes de CO₂e/an  
 
-🟰 Comparaisons concrètes  
-Équivalence	Approximation  
-🚗 Voitures essence/an	≈ 7,5 millions  
-🏙️ Électricité annuelle du Danemark	≈ 36 TWh (2023)  
-⚛️ 2 centrales nucléaires (puissance moyenne)	≈ 1 200 MW × 2  
-🌲 Arbres à planter pour compenser	≈ 600 millions d’arbres  
+🌍 Comparaisons parlantes  
+🚗 27 millions de voitures essence (2 tonnes CO₂e/an/voiture)  
+
+🏙️ Plus que toute l’électricité consommée par le Danemark en un an  
+
+⚛️ Environ 13 fois plus que 2 centrales nucléaires à pleine puissance  
+
+🌲 Il faudrait planter 1,1 milliard d’arbres pour compenser  
+
+🧠 À méditer :  Ce n’est qu’un mail, oui. Mais ce n’est jamais “rien” à l’échelle de la planète.  
 
 
 <!---
