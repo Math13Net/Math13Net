@@ -27,10 +27,10 @@ Welcome to Smile & Co !
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
 
-Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave...
-🌍 Impact énergétique mondial des e-mails – Synthèse
-📩 Volume mondial
-Mails échangés dans le monde (2024) :
+Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave...//
+🌍 Impact énergétique mondial des e-mails – Synthèse//
+📩 Volume mondial//
+Mails échangés dans le monde (2024) ://
 ≈ 347 milliards de mails par jour
 ≈ 126 655 milliards de mails par an
 
