@@ -26,6 +26,37 @@ Welcome to Smile & Co !
 
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
+
+Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave...
+🌍 Impact énergétique mondial des e-mails – Synthèse
+📩 Volume mondial
+Mails échangés dans le monde (2024) :
+≈ 347 milliards de mails par jour
+≈ 126 655 milliards de mails par an
+
+🔋 Estimation du coût énergétique
+Consommation moyenne par mail (envoi + stockage + lecture) :
+≈ 0,3 Wh
+
+Consommation mondiale annuelle :
+≈ 38 TWh (térawattheures)
+
+🏭 Équivalent carbone
+1 kWh ≈ 400 g CO₂e (moyenne mondiale)
+
+→ 38 TWh ≈ 15,2 millions de tonnes de CO₂e par an
+
+🟰 Comparaisons concrètes
+Équivalence	Approximation
+🚗 Voitures essence/an	≈ 7,5 millions
+🏙️ Électricité annuelle du Danemark	≈ 36 TWh (2023)
+⚛️ 2 centrales nucléaires (puissance moyenne)	≈ 1 200 MW × 2
+🌲 Arbres à planter pour compenser	≈ 600 millions d’arbres
+--
+Bien cordialement,
+Christie VASSILIAN
+
+
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
