@@ -38,7 +38,7 @@ Objet : J’envoie un mail ou pas ? Bof, je m’en fous, c’est pas grave…
 🌍 Comparaisons parlantes  
 🚗 27 millions de voitures essence (2 tonnes CO₂e/an/voiture)  
 🏙️ Plus que toute l’électricité consommée par le Danemark en un an  
-⚛️ Environ 13 fois plus que 2 centrales nucléaires à pleine puissance  
+⚛️ Environ 27 centrales nucléaires à pleine puissance  
 🌲 Il faudrait planter 1,1 milliard d’arbres pour compenser  
 🧠 À méditer :  Ce n’est qu’un mail, oui. Mais ce n’est jamais “rien” à l’échelle de la planète.  
 
