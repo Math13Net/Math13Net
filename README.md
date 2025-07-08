@@ -11,8 +11,10 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 ## 🌱 Responsabilité écologique
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
-## 📌 En cours
-- **Projet IA** : Développer avec l’IA (programmation, robotique, traitement de données) - Utiliser l’IA (outils numériques, chatbots, reconnaissance vocale, etc.) - Vivre avec l’IA (éthique, société, avenir du travail)
+## 📌 Projet IA
+- **Développer avec l’IA** - programmation, robotique, traitement de données
+- **Utiliser l’IA** - outils numériques, chatbots, reconnaissance vocale, etc.
+- **Vivre avec l’IA** - éthique, société, avenir du travail
 
 ## 📁 Projets populaires
 - **Terminale** – notebooks Python, cours & exercices  
