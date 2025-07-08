@@ -1,14 +1,45 @@
 If you don't follow your dreams who will ? 
   
-La chance, ce n'est pas ce qui vous arrive ; c'est ce que vous allez faire avec ce qui va vous arriver - Richard Wiseman  
+# Math13Net
 
-**Trois valeurs fondamentales qui guident mon engagement :**
+_Un manifeste personnel & technique_
 
-1. 🔹 **Droit des femmes** – Pour une égalité réelle, une vigilance constante, et une parole respectée.
-2. 🔹 **Intégration du handicap** – Pour que chaque personne ait les moyens de réussir, quels que soient ses obstacles.
-3. 🔹 **Plaisir d’apprendre & ambition intellectuelle** – Parce que comprendre rend libre, et que la rigueur peut être une joie.
+---
 
-> Ces valeurs irriguent mes projets en mathématiques, intelligence artificielle et éducation.
+## 🎯 Ma vision
+
+> **« La chance, ce n’est pas ce qui vous arrive ; c’est ce que vous allez faire avec ce qui va vous arriver »** — Richard Wiseman
+
+Je suis convaincu que notre impact réside dans nos actes, nos choix et notre constance.
+
+---
+
+## 🧭 Mes trois valeurs fondamentales
+
+1. **Droit des femmes** – Pour une égalité réelle, un soutien constant et une parole entendue.  
+2. **Intégration du handicap** – Pour garantir à chacun·e les moyens de participer pleinement, quelles que soient ses capacités.  
+3. **Plaisir d’apprendre & ambition intellectuelle** – Parce que comprendre ouvre des chemins, et que la rigueur développe la liberté.
+
+---
+
+## 🌍 Responsabilité écologique
+
+Ce README adopte une taille maîtrisée (moins de 100 KB) pour limiter l’impact carbone du stockage et du chargement.  
+Ensemble, redéfinissons la pertinence et la sobriété numérique.
+
+---
+
+## 📫 Contact & liens utiles
+
+- Contact : *none*  
+- Playlist de lecture inspirante :  
+  - *Le pouvoir de la confiance* (Stephen M.R. Covey)  
+  - *Se libérer du regard des autres* (Angela Davis, etc.)
+
+---
+
+> **« It always seems impossible until it is done. »** — Nelson Mandela
+
 
   
 Welcome to Smile & Co !
