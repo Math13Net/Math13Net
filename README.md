@@ -16,7 +16,7 @@ README conçu pour être < 100 KB : sobriété numérique et impact carbone 
 ## 📌 Projet IA
 - **Développer avec l’IA** - programmation, robotique, traitement de données
 - **Utiliser l’IA** - outils numériques, chatbots, reconnaissance vocale, etc.
-- **Vivre avec l’IA** - éthique, société, avenir du travail
+- **Vivre avec l’IA** - éthique, société, avenir du travail  
 [Apprendre Apprendre Apprendre](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 ## 📬 Contact & liens
