@@ -23,11 +23,10 @@ README conçu pour être < 100 KB : sobriété numérique et impact carbone 
 ## 📬 Contact & liens
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
 - ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
-- 🌐 Portfolio & inspirations : MetaNumbers - [play different : math for love](https://mathforlove.com/)
-- 📚 [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
+- 🌐 Portfolio & inspirations : [play different : math for love](https://mathforlove.com/) - [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
 - 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 
-> “It always seems impossible until it is done.” — Nelson Mandela
+> “It always seems impossible until it is done.” — Nelson Mandela  
 > ** L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
 
 
