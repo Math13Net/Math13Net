@@ -12,7 +12,7 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
 ## 📌 En cours
-- **Projet IA** : fabrication d’une IA simple, évaluation des biais, outils utilisés (Deep Learning, Python, Jupyter).
+- **Projet IA** : [détailsl(https://jean-monnet-montpellier.mon-ent-occitanie.fr/nos-formations-2nde-term-/options/intelligence-artificielle/).
 
 ## 📁 Projets populaires
 - **Terminale** – notebooks Python, cours & exercices  
