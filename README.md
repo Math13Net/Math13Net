@@ -1,4 +1,6 @@
-# Math13Net – think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo)
+# Math13Net – think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo)  
+> “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.”
+
 
 ## 🎯 Vision
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
