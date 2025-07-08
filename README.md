@@ -16,12 +16,6 @@ README conçu pour être < 100 KB : sobriété numérique et impact carbone 
 - **Utiliser l’IA** - outils numériques, chatbots, reconnaissance vocale, etc.
 - **Vivre avec l’IA** - éthique, société, avenir du travail
 
-## 📁 Projets populaires
-- **Terminale** – notebooks Python, cours & exercices  
-- **Première S** – maths & programmation, fiches & QCM  
-- **Seconde** – ressources maths & Python pour la Seconde  
-*(pins)*
-
 ## 📬 Contact & liens
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
 - ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
