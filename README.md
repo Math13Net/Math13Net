@@ -1,6 +1,7 @@
-If you don't follow your dreams who will ?  
-La chance, c'est ce qui vous arrive ; c'est ce que vous allez faire avec ce qui va vous arriver - Richard Wiseman  
-
+If you don't follow your dreams who will ? 
+  
+La chance, ce n'est pas ce qui vous arrive ; c'est ce que vous allez faire avec ce qui va vous arriver - Richard Wiseman  
+  
 Welcome to Smile & Co !
 
 - 👋 Hi, I’m @Math13Net - - - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
