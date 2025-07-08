@@ -1,4 +1,5 @@
-If you don't follow your dreams who will ?
+If you don't follow your dreams who will ?  
+La chance, c'est ce qui vous arrive ; c'est ce que vous allez faire avec ce qui va vous arriver - Richard Wiseman  
 
 Welcome to Smile & Co !
 
