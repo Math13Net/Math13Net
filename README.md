@@ -1,25 +1,33 @@
-Welcome to Smile & Co !  
-If you don't follow your dreams who will ? 
-  
-# Math13Net
+# Math13Net | think different & smile ! - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 
-_Un manifeste personnel & technique_
+## 🎯 Vision
+Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
 
----
+## 💡 Mes valeurs
+⚖️ Égalité femmes · ♿ Inclusion handicap · 🎓 Plaisir d’apprendre & ambition intellectuelle
 
-## 🎯 Ma vision
+## 🌱 Responsabilité écologique
+README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
-> **« La chance, ce n’est pas ce qui vous arrive ; c’est ce que vous allez faire avec ce qui va vous arriver »** — Richard Wiseman
+## 📌 À venir (septembre)
+- **Projet IA** : fabrication d’une IA simple, évaluation des biais, outils utilisés (Deep Learning, Python, Jupyter).
 
-Je suis convaincu que notre impact réside dans nos actes, nos choix et notre constance.
+## 📁 Projets populaires
+- **Terminale** – notebooks Python, cours & exercices  
+- **Première S** – maths & programmation, fiches & QCM  
+- **Seconde** – ressources maths & Python pour la Seconde  
+*(pins)*
 
----
+## 📬 Contact & liens
+- ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
+- ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
+- 🌐 Portfolio & inspirations : MetaNumbers - [play different : math for love](https://mathforlove.com/)
+- 📚 [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
+- 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 
-## 🧭 Mes trois valeurs fondamentales
+> “It always seems impossible until it is done.” — Nelson Mandela
+> ** L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
 
-1. **Droit des femmes** – Pour une égalité réelle, un soutien constant et une parole entendue.  
-2. **Intégration du handicap** – Pour garantir à chacun·e les moyens de participer pleinement, quelles que soient ses capacités.  
-3. **Plaisir d’apprendre & ambition intellectuelle** – Parce que comprendre ouvre des chemins, et que la rigueur développe la liberté.
 
 ---
 
@@ -29,35 +37,13 @@ Ce README adopte une taille maîtrisée (moins de 100 KB) pour limiter l’imp
 Ensemble, redéfinissons la pertinence et la sobriété numérique.
 
 ---
-
-## 📫 Contact & liens utiles
-
-- Contact : *[contact address](https://youtu.be/nq-dchJPXGA)*  
-- Playlist de lecture inspirante :  
-  - *Le pouvoir de la confiance* (Stephen M.R. Covey)  
-  - *Se libérer du regard des autres* (Angela Davis, etc.)
-  - 👋 Hi, I’m @Math13Net - - - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
-  - 👀 I’m interested in Deep Learning - see [my website](https://sites.google.com/view/introduction-deep-learning/accueil) for more info
-  - 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
-  - [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
-  - [play different : math for love](https://mathforlove.com/)
-  - [savoir respirer](https://youtu.be/RIjjUxwaqTI?si=Es2jer2tbDO15Q9s) puis [apprendre à respirer](https://www.mrjamesnestor.com/breathing-videos)
----
-
-> **« It always seems impossible until it is done. »** — Nelson Mandela
-> ** L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
-
-
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
-
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
 
 <!---
 Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-
 --->
 
 
