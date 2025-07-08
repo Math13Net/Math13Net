@@ -11,7 +11,7 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 ## 🌱 Responsabilité écologique
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
-## 📌 À venir (septembre)
+## 📌 En cours
 - **Projet IA** : fabrication d’une IA simple, évaluation des biais, outils utilisés (Deep Learning, Python, Jupyter).
 
 ## 📁 Projets populaires
