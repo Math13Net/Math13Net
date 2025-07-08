@@ -25,14 +25,6 @@ README conçu pour être < 100 KB : sobriété numérique et impact carbone 
 > “It always seems impossible until it is done.” — Nelson Mandela  
 > ** L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien**  
 
-
----
-
-## 🌍 Responsabilité écologique
-
-Ce README adopte une taille maîtrisée (moins de 100 KB) pour limiter l’impact carbone du stockage et du chargement.  
-Ensemble, redéfinissons la pertinence et la sobriété numérique.
-
 ---
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
