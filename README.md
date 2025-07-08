@@ -1,6 +1,15 @@
 If you don't follow your dreams who will ? 
   
 La chance, ce n'est pas ce qui vous arrive ; c'est ce que vous allez faire avec ce qui va vous arriver - Richard Wiseman  
+
+**Trois valeurs fondamentales qui guident mon engagement :**
+
+1. 🔹 **Droit des femmes** – Pour une égalité réelle, une vigilance constante, et une parole respectée.
+2. 🔹 **Intégration du handicap** – Pour que chaque personne ait les moyens de réussir, quels que soient ses obstacles.
+3. 🔹 **Plaisir d’apprendre & ambition intellectuelle** – Parce que comprendre rend libre, et que la rigueur peut être une joie.
+
+> Ces valeurs irriguent mes projets en mathématiques, intelligence artificielle et éducation.
+
   
 Welcome to Smile & Co !
 
