@@ -1,10 +1,12 @@
-# Math13Net | think different & smile ! - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
+# Math13Net – think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 
 ## 🎯 Vision
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
 
-## 💡 Mes valeurs
-⚖️ Égalité femmes · ♿ Inclusion handicap · 🎓 Plaisir d’apprendre & ambition intellectuelle
+## Mes valeurs fondamentales  
+- **⚖️ Égalité femmes** – pour une égalité réelle et une parole amplifiée  
+- **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
+- **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie
 
 ## 🌱 Responsabilité écologique
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
