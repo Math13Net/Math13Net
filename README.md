@@ -1,6 +1,6 @@
 # Math13Net – think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - - - [math is _____](https://youtu.be/hB6bfw622fo)
 
-## 🎯 Ma Vision
+## 🎯 Vision
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
 
 ## Mes valeurs fondamentales  
