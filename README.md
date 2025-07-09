@@ -7,8 +7,7 @@ Cette image historique du “Tank Man” à Tiananmen incarne l’idée que l’
 - **oser affronter ses peurs**,
 - **agir avec éthique**,
 - **et construire un monde meilleur à son échelle**.  
-Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement.  
-Alors ensemble : changeons le monde.
+Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement. Alors ensemble : changeons le monde.
 
 ## 🎯 Vision
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
