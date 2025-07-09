@@ -33,11 +33,6 @@ Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du lycée J
 3. **Débattre** des questions éthiques (biais, usages, responsabilité).  
 4. **Collaborer** : élèves, enseignants, et partenaires, dans un cadre de confiance.
 ---
-### 📌 Pourquoi ce projet IA
-- Parce que **technique et éthique vont ensemble**.  
-- Parce que **changer le monde commence par la conviction**.  
-- Parce qu’ici, **on fait et on pense** ; on forme des citoyens conscients.
----
 ## 📬 Contact & liens
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
 - ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
