@@ -17,8 +17,7 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 - **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie
 
-## 🌱 Responsabilité écologique
-README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
+
 
 ## 📌 Projet IA
 Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du lycée Jean Monnet et du collège Rabelais. Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace citoyenne**.
@@ -45,5 +44,8 @@ Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du lycée J
 ---
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
+
+## 🌱 Responsabilité écologique
+README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
 *(C) 2025 – Math13Net
