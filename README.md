@@ -17,21 +17,19 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 - **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie
 
-
-
 ## 📌 Projet IA
 Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du lycée Jean Monnet et du collège Rabelais. Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace citoyenne**.
 ### 👉 Ce projet IA n’est pas seulement technique : c’est un **acte éthique**, un message d’espoir :
 - **Oser questionner**,  
 - **Agir avec responsabilité**,  
-- **Construire un monde meilleur, à échelle humaine**.
----
+- **Construire un monde meilleur, à échelle humaine**.  
+
 ### 🚀 Objectifs
 1. **Sensibiliser** aux principes et enjeux de l’IA.  
 2. **Expérimenter** : créer des modèles, manipuler des données.  
 3. **Débattre** des questions éthiques (biais, usages, responsabilité).  
-4. **Collaborer** : élèves, enseignants, et partenaires, dans un cadre de confiance.
----
+4. **Collaborer** : élèves, enseignants, et partenaires, dans un cadre de confiance.  
+
 ## 📬 Contact & liens
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
 - ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
