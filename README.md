@@ -1,7 +1,15 @@
 # Math13Net – think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo)  
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.”  
-> [“Certaines personnes changent le monde ...”](https://youtu.be/YeFzeNAHEhU?si=ifgfGMzidse0VmCa)
 
+
+## 💡 « Révolter sans violence » - [“Certaines personnes changent le monde ...”](https://youtu.be/YeFzeNAHEhU?si=ifgfGMzidse0VmCa)
+Cette image historique du “Tank Man” à Tiananmen incarne l’idée que l’on peut résister à l’injustice sans recourir à la violence, simplement en restant debout, dignes et déterminés.  
+Dans ce projet IA, rien ne vaut davantage que les valeurs humaines :
+- **oser affronter ses peurs,
+- **agir avec éthique,
+- **et construire un monde meilleur à son échelle.  
+Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement.  
+Alors ensemble : changeons le monde.
 
 ## 🎯 Vision
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
