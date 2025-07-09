@@ -21,11 +21,23 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
 ## 📌 Projet IA
-- **Développer avec l’IA** - programmation, robotique, traitement de données
-- **Utiliser l’IA** - outils numériques, chatbots, reconnaissance vocale, etc.
-- **Vivre avec l’IA** - éthique, société, avenir du travail  
-[Apprendre Apprendre Apprendre](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-
+Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du lycée Jean Monnet et du collège Rabelais. Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace citoyenne**.
+### 👉 Ce projet IA n’est pas seulement technique : c’est un **acte éthique**, un message d’espoir :
+- **Oser questionner**,  
+- **Agir avec responsabilité**,  
+- **Construire un monde meilleur, à échelle humaine**.
+---
+### 🚀 Objectifs
+1. **Sensibiliser** aux principes et enjeux de l’IA.  
+2. **Expérimenter** : créer des modèles, manipuler des données.  
+3. **Débattre** des questions éthiques (biais, usages, responsabilité).  
+4. **Collaborer** : élèves, enseignants, et partenaires, dans un cadre de confiance.
+---
+### 📌 Pourquoi ce projet IA
+- Parce que **technique et éthique vont ensemble**.  
+- Parce que **changer le monde commence par la conviction**.  
+- Parce qu’ici, **on fait et on pense** ; on forme des citoyens conscients.
+---
 ## 📬 Contact & liens
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
 - ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
@@ -39,10 +51,4 @@ README conçu pour être < 100 KB : sobriété numérique et impact carbone 
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
-
-<!---
-Math13Net/Math13Net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+*(C) 2025 – Math13Net
