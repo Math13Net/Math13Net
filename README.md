@@ -3,8 +3,7 @@
 
 
 ## 💡 « Révolter sans violence » - [“Certaines personnes changent le monde ...”](https://youtu.be/YeFzeNAHEhU?si=ifgfGMzidse0VmCa)
-Cette image historique du “Tank Man” à Tiananmen incarne l’idée que l’on peut résister à l’injustice sans recourir à la violence, simplement en restant debout, dignes et déterminés.  
-Dans ce projet IA, rien ne vaut davantage que les valeurs humaines :
+Cette image historique du “Tank Man” à Tiananmen incarne l’idée que l’on peut résister à l’injustice sans recourir à la violence, simplement en restant debout, dignes et déterminés. Dans ce projet IA, rien ne vaut davantage que les valeurs humaines :
 - **oser affronter ses peurs,
 - **agir avec éthique,
 - **et construire un monde meilleur à son échelle.  
