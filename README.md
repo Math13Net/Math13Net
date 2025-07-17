@@ -15,7 +15,7 @@ Si le code et l’intelligence artificielle permettent de résoudre des problèm
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
 
 ## Mes valeurs fondamentales  
-- **⚖️ Égalité femmes** – pour une égalité réelle et une parole amplifiée  
+- **⚖️ Égalité femmes et des droits LGBT** – pour une égalité réelle et une parole amplifiée  
 - **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie
 
