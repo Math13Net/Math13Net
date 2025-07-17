@@ -2,8 +2,11 @@
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.”  
 
 
-## 💡 « Révolter sans violence » - [“Certaines personnes changent le monde ...”](https://youtu.be/YeFzeNAHEhU?si=ifgfGMzidse0VmCa)
-Cette image historique du “Tank Man” à Tiananmen incarne l’idée que l’on peut résister à l’injustice sans recourir à la violence, simplement en restant debout, dignes et déterminés. Dans ce projet IA, rien ne vaut davantage que les valeurs humaines :
+## 💡  Question Inspirante #486  - Piste de réflexion  
+Une fois votre projet abouti, qu'aurez-vous de plus ? Que ferez-vous de différent ? Qui serez-vous devenu ?  
+On est souvent conscient de ce que l'on souhaite obtenir quand on se lance dans un nouveau projet. En revanche, il est plus rare de savoir ce que l'on veut faire différemment, et encore plus rare d'être au clair avec ce que l'on sera devenu une fois le projet abouti.  
+Pourtant, ce dernier aspect est essentiel : à quoi sert de mener à bien un projet qui vous permet d'obtenir quelque chose de plus s'il vous éloigne de celui ou celle que vous voulez être ?  
+Aussi, se poser ces 3 questions (avoir, faire, être) au début de chaque grand projet permet de vous assurer d'un chemin qui vous satisfera sur 3 niveaux : matériel, expression de soi et réalisation de soi.  
 - **oser affronter ses peurs**,
 - **agir avec éthique**,
 - **et construire un monde meilleur à son échelle**.  
