@@ -12,7 +12,8 @@ Aussi, se poser ces 3 questions (avoir, faire, être) au début de chaque grand 
 Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement. Alors ensemble : changeons le monde.
 
 ## 🎯 Vision
-Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.
+Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.  
+[Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance)
 
 ## Mes valeurs fondamentales  
 - **⚖️ Égalité femmes et des droits LGBT** – pour une égalité réelle et une parole amplifiée  
