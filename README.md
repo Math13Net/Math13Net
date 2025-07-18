@@ -13,7 +13,7 @@ Si le code et l’intelligence artificielle permettent de résoudre des problèm
 
 ## 🎯 Vision
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.  
-[Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance)
+[Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/)
 
 ## Mes valeurs fondamentales  
 - **⚖️ Égalité femmes et des droits LGBT** – pour une égalité réelle et une parole amplifiée  
