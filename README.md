@@ -19,7 +19,7 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 - **⚖️ Égalité femmes et des droits LGBT** – pour une égalité réelle et une parole amplifiée  
 - **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie  
-[Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix)
+[Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix) - [John Lennon](https://youtu.be/SX7GsonWTJA?si=DFGSqIUJmP8qKQC5)
 
 ## 📌 Projet IA
 Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du lycée Jean Monnet et du collège Rabelais. Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace citoyenne**.
