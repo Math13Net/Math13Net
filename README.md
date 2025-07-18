@@ -21,7 +21,7 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie  
 [Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma 1](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) [Jack Ma 2](https://youtu.be/U5HvuKEjH6g?si=DjGMnjSe8PzQuZ3b) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix) - [John Lennon](https://youtu.be/SX7GsonWTJA?si=DFGSqIUJmP8qKQC5) - [Fidji Simo](https://youtu.be/qIs60n5wtY8?si=jaLM7V382Xkc_k8M) - [Luc Julia](https://youtube.com/shorts/A2glKlB6CgM?si=dxOJfNyvD1A9hTwg) - [Rowan Atkinson](https://youtube.com/shorts/HWIIoYTOQac?si=HAKiUuZdfvd8-lIt)
 
-## 📌 Projet IA
+## 📌 Projet IA - du Collège au Lycée
 Bienvenue sur **Math13Net**, le projet d’intelligence artificielle du collège au lycée. Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace citoyenne**.
 ### 👉 Ce projet IA n’est pas seulement technique : c’est un **acte éthique**, un message d’espoir :
 - **Oser questionner**,  
