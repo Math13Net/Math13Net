@@ -15,7 +15,7 @@ Si le code et l’intelligence artificielle permettent de résoudre des problèm
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.  
 [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)
 
-## Mes valeurs fondamentales  
+## Valeurs fondamentales  
 - **⚖️ Égalité femmes et des droits LGBT** – pour une égalité réelle et une parole amplifiée  
 - **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie  
@@ -34,7 +34,7 @@ Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la 
 3. **Débattre** des questions éthiques (biais, usages, responsabilité).  
 4. **Collaborer** : élèves, enseignants, et partenaires, dans un cadre de confiance.  
 
-## 📬 Contact & liens
+## 📬 Contact & liens - Mi2
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
 - ▶️ Playlist : “Le pouvoir de la confiance” (Covey) ; “Se libérer du regard des autres” (Angela Davis)…  
 - 🌐 Portfolio & inspirations : [play different : math for love](https://mathforlove.com/) - [think different : introduction to p-adict numbers](https://youtu.be/3gyHKCDq1YA?si=h53LGlX32wGySUCS)
