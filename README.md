@@ -49,9 +49,6 @@ Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la 
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
-## 🌱 Responsabilité écologique
-README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
-
 Hommage à la mémoire de Georgios Kyriacos Panayiotou  
 
 *(C) 2025 – Mi2
