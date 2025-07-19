@@ -50,4 +50,4 @@ Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la 
 ## 🌱 Responsabilité écologique
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
-*(C) 2025 – Math13Net
+*(C) 2025 – Mi2 – Math13Net
