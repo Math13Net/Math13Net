@@ -52,4 +52,6 @@ Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la 
 ## 🌱 Responsabilité écologique
 README conçu pour être < 100 KB : sobriété numérique et impact carbone réduit.
 
+Hommage à la mémoire de Georgios Kyriacos Panayiotou  
+
 *(C) 2025 – Mi2
