@@ -50,4 +50,6 @@ Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace 
 
 Hommage à la mémoire de Georgios Kyriacos Panayiotou  
 
+⚠️ **Usage personnel uniquement** – ces ressources sont publiées à titre personnel et hors de mon service en cours. Elles ne constituent pas un support pédagogique officiel ni destiné à des classes actuellement en activité.
+
 *(C) 2025 – Mi2
