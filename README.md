@@ -41,7 +41,8 @@ Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la 
 - 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 
 > “It always seems impossible until it is done.” — Nelson Mandela  
-> “ L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien ” — Mi2
+> “ L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien ” — Mi2  
+> [Mais le coeur de l'Homme est aisément corruptible, et l'Anneau de Pouvoir a une volonté propre](Mais le coeur de l'Homme est aisément corruptible, et l'Anneau de Pouvoir a une volonté propre)  
 
 ---
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
