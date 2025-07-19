@@ -1,4 +1,4 @@
-# Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo) - [-\ /-](https://youtu.be/AKo5-FU6Z10?si=Y8_9GPmuznMTTbHv)  
+# Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo) [-\ /-](https://youtu.be/AKo5-FU6Z10?si=Y8_9GPmuznMTTbHv)  
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
 > "The right time is Now", Jack Ma - [Rejection is a feed back ... The vision is your anchor](https://youtu.be/45r3EZCscWY?si=4atMDKSbhPY8RXiD) 
 
