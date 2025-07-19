@@ -31,7 +31,7 @@ Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace 
 1. **Sensibiliser** aux principes et enjeux de l’IA.  
 2. **Expérimenter** : créer des modèles, manipuler des données.  
 3. **Débattre** des questions éthiques (biais, usages, responsabilité).  
-4. **Collaborer** : élèves, enseignants, et partenaires, dans un cadre de confiance.  
+4. **Collaborer** dans un cadre de confiance.  
 
 ## 📬 Contact & liens - Mi2
 - ✉️ *[contact address](https://youtu.be/nq-dchJPXGA)*  
