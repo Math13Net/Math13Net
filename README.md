@@ -1,4 +1,4 @@
-# Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo)  
+# Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo) - [-\ /-](https://youtu.be/AKo5-FU6Z10?si=Y8_9GPmuznMTTbHv)  
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
 > "The right time is Now", Jack Ma - [Rejection is a feed back ... The vision is your anchor](https://youtu.be/45r3EZCscWY?si=4atMDKSbhPY8RXiD) 
 
@@ -43,7 +43,7 @@ Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la 
 > “It always seems impossible until it is done.” — Nelson Mandela  
 > “ L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien ” — Mi2
 
-[-\ /-](https://zonesons.com/repliques-de-film-fantastique/phrases-cultes-de-le-seigneur-des-anneaux-la-communaute-de-l-anneau/mais-le-coeur-de-l-homme-est-aisement-corruptible-et-l-anneau-de-pouvoir-a-une-volonte-propre)  
+
 
 ---
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
