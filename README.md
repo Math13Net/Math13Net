@@ -11,7 +11,7 @@ Aussi, se poser ces 3 questions (avoir, faire, être) au début de chaque grand 
 - **et construire un monde meilleur à son échelle**.  
 Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement. Alors ensemble : changeons le monde — Mi2  
 
-## 🎯 Vision
+## 🎯 Vision - [Convolutional Network Demo from 1989](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)
 Bienvenue sur mon espace de partage pédagogique : cours de maths et programmation, projets IA, challenges enrichissants.  
 [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)
 
@@ -21,7 +21,7 @@ Bienvenue sur mon espace de partage pédagogique : cours de maths et programmati
 - **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie  
 [Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma 1](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) [Jack Ma 2](https://youtu.be/U5HvuKEjH6g?si=DjGMnjSe8PzQuZ3b) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix) - [John Lennon](https://youtu.be/SX7GsonWTJA?si=DFGSqIUJmP8qKQC5) - [Fidji Simo](https://youtu.be/qIs60n5wtY8?si=jaLM7V382Xkc_k8M) - [Luc Julia](https://youtube.com/shorts/A2glKlB6CgM?si=dxOJfNyvD1A9hTwg) - [Rowan Atkinson](https://youtube.com/shorts/HWIIoYTOQac?si=HAKiUuZdfvd8-lIt)
 
-## 📌 L’IA pour tous — Mi2 - [Convolutional Network Demo from 1989](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)
+## 📌 L’IA pour tous — Mi2
 Bienvenue sur **Math13Net**, un projet éducatif du collège au lycée. Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace citoyenne**.
 ### 👉 Ce projet IA n’est pas seulement technique : c’est un **acte éthique**, un message d’espoir :
 - **Oser questionner**,  
