@@ -1,5 +1,5 @@
 # Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo)  
-> “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2
+> “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
 > "The right time is Now", Jack Ma - [Rejection is a feed back ... The vision is your anchor](https://youtu.be/45r3EZCscWY?si=4atMDKSbhPY8RXiD) 
 
 ## 💡  [Question Inspirante #486](https://www.questiologie.fr/?utm_campaign=20cb5533-647a-454e-99a4-1d5675948c85&utm_source=so&utm_medium=mail&cid=8408e0dd-5f88-4814-b8e4-8d54d3da2f71)  - Piste de réflexion : Une fois votre projet abouti, qu'aurez-vous de plus ? Que ferez-vous de différent ? Qui serez-vous devenu ?  
