@@ -52,7 +52,7 @@ Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace 
 
 ## 🎯 Hommage à la mémoire de Georgios Kyriacos Panayiotou :
 [Angel](https://youtu.be/KNl40iCABzs?si=8kq9lUnRgyjuI_3n) - [Take on Me](https://youtu.be/3meKlaJL3qo?si=gXuKhcaBQvoIacaM) - [Imagine Dragons](https://youtu.be/BrJP9SiUB9k?si=lRYzDdMu-6w4VEsd) - [Don't Let The Sun Go Down On Me](https://youtu.be/RsKqMNDoR4o?si=IHw920ubKo9bTRqZ) - [God](https://youtu.be/MDXxilRkw34?si=nf3hu25VjWDsZ8H7) - [Crazy](https://youtu.be/-N4jf6rtyuw?si=6kpYXgCiR17vLHKF) - [Sympathy For The Devil](https://youtu.be/GgnClrx8N2k?si=r8yFO2Du_gE30vS-)  
- [Let It Be](https://youtu.be/QDYfEBY9NM4?si=dfJVkoG4Rhpm75lQ) - [Where The Streets Have No Name](https://youtu.be/GzZWSrr5wFI?si=XSlTWXEomBUQjP21) - [Feel](https://youtu.be/cI0Pov_dIgg?si=0AWzk0Qf2mNlapNg)
+ [Let It Be](https://youtu.be/QDYfEBY9NM4?si=dfJVkoG4Rhpm75lQ) - [Where The Streets Have No Name](https://youtu.be/GzZWSrr5wFI?si=XSlTWXEomBUQjP21) - [Feel](https://youtu.be/cI0Pov_dIgg?si=0AWzk0Qf2mNlapNg) - [Woman](https://youtu.be/ZhfWiU8wGCc?si=AMSmbKIXL7uQgO7O)
 
 
 
