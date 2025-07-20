@@ -50,8 +50,8 @@ Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace 
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
-Hommage à la mémoire de Georgios Kyriacos Panayiotou  
-
+## 🎯 Hommage à la mémoire de Georgios Kyriacos Panayiotou : [Let It Be](https://youtu.be/QDYfEBY9NM4?si=dfJVkoG4Rhpm75lQ)
+[Angel](https://youtu.be/KNl40iCABzs?si=8kq9lUnRgyjuI_3n) - [Take on Me](https://youtu.be/3meKlaJL3qo?si=gXuKhcaBQvoIacaM) - [Imagine Dragons](https://youtu.be/BrJP9SiUB9k?si=lRYzDdMu-6w4VEsd) - [Don't Let The Sun Go Down On Me](https://youtu.be/RsKqMNDoR4o?si=IHw920ubKo9bTRqZ) - [God](https://youtu.be/MDXxilRkw34?si=nf3hu25VjWDsZ8H7) - [Crazy](https://youtu.be/-N4jf6rtyuw?si=6kpYXgCiR17vLHKF) - [Sympathy For The Devil](https://youtu.be/GgnClrx8N2k?si=r8yFO2Du_gE30vS-)
 
 
 *(C) 2025 – Mi2
