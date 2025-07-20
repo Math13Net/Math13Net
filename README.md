@@ -1,4 +1,5 @@
-⚠️ **Usage personnel uniquement** – ces ressources sont publiées à titre personnel et hors de mon service en cours. Elles ne constituent pas un support pédagogique officiel ni destiné à des classes actuellement en activité.
+⚠️ **Usage personnel uniquement** – ces ressources sont publiées à titre personnel et hors de mon service en cours. Elles ne constituent pas un support pédagogique officiel ni destiné à des classes actuellement en activité.  
+ [Let It Be](https://youtu.be/QDYfEBY9NM4?si=dfJVkoG4Rhpm75lQ)
 
 # Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo) [-\ /-](https://youtu.be/AKo5-FU6Z10?si=Y8_9GPmuznMTTbHv)  
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
@@ -50,7 +51,7 @@ Ici, la technologie rime avec **valeurs humaines**, **engagement**, et **audace 
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
 [pay attention please !](https://youtu.be/4GEoTPQj91I?si=9idt9YRTsdtKO05v)
 
-## 🎯 Hommage à la mémoire de Georgios Kyriacos Panayiotou : [Let It Be](https://youtu.be/QDYfEBY9NM4?si=dfJVkoG4Rhpm75lQ)
+## 🎯 Hommage à la mémoire de Georgios Kyriacos Panayiotou :
 [Angel](https://youtu.be/KNl40iCABzs?si=8kq9lUnRgyjuI_3n) - [Take on Me](https://youtu.be/3meKlaJL3qo?si=gXuKhcaBQvoIacaM) - [Imagine Dragons](https://youtu.be/BrJP9SiUB9k?si=lRYzDdMu-6w4VEsd) - [Don't Let The Sun Go Down On Me](https://youtu.be/RsKqMNDoR4o?si=IHw920ubKo9bTRqZ) - [God](https://youtu.be/MDXxilRkw34?si=nf3hu25VjWDsZ8H7) - [Crazy](https://youtu.be/-N4jf6rtyuw?si=6kpYXgCiR17vLHKF) - [Sympathy For The Devil](https://youtu.be/GgnClrx8N2k?si=r8yFO2Du_gE30vS-)
 
 
