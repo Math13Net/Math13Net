@@ -1,4 +1,5 @@
-Math13Net – Mi2 - espace d’expression IA / math, inspirations & réflexions personnelles (usage exclusif, hors cadre pro/enseignement officiel)
+# Math13Net – Mi2 : IA citoyenne & réflexions personnelles
+*(⚠️ Usage privé, hors cadre professionnel ou support officiel de cours)* 
 
 # Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo) [-\ /-](https://youtu.be/AKo5-FU6Z10?si=Y8_9GPmuznMTTbHv)  
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
