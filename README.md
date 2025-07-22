@@ -1,4 +1,4 @@
-# Math13Net – Mi2 : IA citoyenne & réflexions personnelles
+# Math13Net – Mi2 : IA citoyenne & réflexions personnelles  
 [Rostropovitch devant le mur de Berlin - 1989](https://youtu.be/TEx7Pu-Ok5E?si=DaNPJr7IRdQoD47i) - [Man vs. tank in Tiananmen square - 1989](https://youtu.be/YeFzeNAHEhU?si=4xwd-Pe1vVm1Q9Xq) - [Convolutional Network Demo - 1989](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb) - [When I'm 64](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT)
 *(⚠️ Usage privé, hors cadre professionnel ou support officiel de cours)* 
 
