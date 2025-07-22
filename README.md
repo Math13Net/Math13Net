@@ -4,7 +4,7 @@
 ## 🎲 Maths fun  
 Repos : **seconde**, **première_S**, **terminale_S**
 
-## 🤖 YAI  
+## 🤖 AI 4 ALL  
 Repos : **IA**
 
 ## 🎵 Inspirations  
