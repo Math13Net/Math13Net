@@ -1,7 +1,7 @@
 # Math13Net - [600 h pour changer de vie !](https://youtu.be/rX1fjyX3mGU?si=_yPK_-CK3pKO973H)
-⚠️ Usage strictement privé* - [Birthday Greetings !](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT)
-“It always seems impossible until it is done.” — Nelson Mandela   
-"Pendant des années, j'ai attendu que ma vie change. Mais maintenant, je sais que c'était elle qui attendait que moi je change." - Fabio Volo  
+⚠️ Usage strictement privé* - [Birthday Greetings !](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT)  
+It always seems impossible until it is done. — Nelson Mandela   
+Pendant des années, j'ai attendu que ma vie change. Mais maintenant, je sais que c'était elle qui attendait que moi je change." — Fabio Volo  
 
 ## 🎵 Inspirations  
 Remember - [Berlin](https://youtu.be/TEx7Pu-Ok5E?si=DaNPJr7IRdQoD47i) - [Tiananmen](https://youtu.be/YeFzeNAHEhU?si=4xwd-Pe1vVm1Q9Xq) - [CNN](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)  
