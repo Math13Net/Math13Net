@@ -8,11 +8,10 @@ Repos : **seconde**, **première_S**, **terminale_S**
 Repos : **IA**
 
 ## 🎵 Inspirations  
-
-Game 1 : Remember - [Berlin](https://youtu.be/TEx7Pu-Ok5E?si=DaNPJr7IRdQoD47i) - [Tiananmen](https://youtu.be/YeFzeNAHEhU?si=4xwd-Pe1vVm1Q9Xq) - [CNN](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)  
-Game 2 : Read - [Jack Ma](https://youtu.be/SSV2ynRScQA?si=fDJx-JRKYpi7Mpvt) - [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)  
-Game 3 : Listen - [Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma 1](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) [Jack Ma 2](https://youtu.be/U5HvuKEjH6g?si=DjGMnjSe8PzQuZ3b) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix) - [John Lennon](https://youtu.be/SX7GsonWTJA?si=DFGSqIUJmP8qKQC5) - [Fidji Simo](https://youtu.be/qIs60n5wtY8?si=jaLM7V382Xkc_k8M) - [Luc Julia](https://youtube.com/shorts/A2glKlB6CgM?si=dxOJfNyvD1A9hTwg) - [Rowan Atkinson](https://youtube.com/shorts/HWIIoYTOQac?si=HAKiUuZdfvd8-lIt)  
-Game 4 : Just do it - [Yes We Can](https://youtu.be/45r3EZCscWY?si=4atMDKSbhPY8RXiD) 
+Remember - [Berlin](https://youtu.be/TEx7Pu-Ok5E?si=DaNPJr7IRdQoD47i) - [Tiananmen](https://youtu.be/YeFzeNAHEhU?si=4xwd-Pe1vVm1Q9Xq) - [CNN](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)  
+Read - [Jack Ma](https://youtu.be/SSV2ynRScQA?si=fDJx-JRKYpi7Mpvt) - [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)  
+Listen - [Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma 1](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) [Jack Ma 2](https://youtu.be/U5HvuKEjH6g?si=DjGMnjSe8PzQuZ3b) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix) - [John Lennon](https://youtu.be/SX7GsonWTJA?si=DFGSqIUJmP8qKQC5) - [Fidji Simo](https://youtu.be/qIs60n5wtY8?si=jaLM7V382Xkc_k8M) - [Luc Julia](https://youtube.com/shorts/A2glKlB6CgM?si=dxOJfNyvD1A9hTwg) - [Rowan Atkinson](https://youtube.com/shorts/HWIIoYTOQac?si=HAKiUuZdfvd8-lIt)  
+Just do it - [Yes We Can](https://youtu.be/45r3EZCscWY?si=4atMDKSbhPY8RXiD) 
 
 ## 📬 CONTACT
 - ✉️ *[Math13Net](https://youtu.be/nq-dchJPXGA)*  
