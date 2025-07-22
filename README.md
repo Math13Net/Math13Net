@@ -14,7 +14,7 @@ Aussi, se poser ces 3 questions (avoir, faire, être) au début de chaque grand 
 - **et construire un monde meilleur à son échelle**.  
 Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement. Alors ensemble : changeons le monde — Mi2  
 
-## 🎯 VISION
+## 🎯 VISION - [Monday Morning Team Motivation](https://youtu.be/D24Oo0B5AN8?si=oknPjqLt0GCqGvVi)
 [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)
 
 ## VALUES  
