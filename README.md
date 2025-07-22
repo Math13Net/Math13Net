@@ -1,4 +1,4 @@
-# Math13Net – L’apprentissage des maths en s’amusant 🎓 + IA pour tous 🤖
+# Math13Net
 ⚠️ Usage strictement privé* - [Birthday Greetings !](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT) - “It always seems impossible until it is done.” — Nelson Mandela     
 
 **Alias pedagogue : Mi2 (Math+Info 2.0)**  
