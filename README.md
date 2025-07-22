@@ -1,6 +1,5 @@
 # All started in 1989 - [Berlin](https://youtu.be/TEx7Pu-Ok5E?si=DaNPJr7IRdQoD47i) - [Tiananmen](https://youtu.be/YeFzeNAHEhU?si=4xwd-Pe1vVm1Q9Xq) - [CNN](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)  
-[Birthday Greetings !](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT)  
-*⚠️ Usage strictement privé* - in memory of my grandfather who shook hands with General de Gaulle  
+[Birthday Greetings !](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT) - *⚠️ Usage strictement privé* - in memory of my grandfather who shook hands with General de Gaulle  
 
 # Think different & smile ! 😊 - [i hate math](https://youtu.be/ytVneQUA5-c) - [math is _____](https://youtu.be/hB6bfw622fo) [-\ /-](https://youtu.be/AKo5-FU6Z10?si=Y8_9GPmuznMTTbHv)  
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
