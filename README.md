@@ -1,12 +1,6 @@
 # Math13Net
 ⚠️ Usage strictement privé* - [Birthday Greetings !](https://youtu.be/HCTunqv1Xt4?si=hbTIsm6IhJAlngxT) - “It always seems impossible until it is done.” — Nelson Mandela     
 
-## 🎲 Maths fun  
-Repos : **seconde**, **première_S**, **terminale_S**
-
-## 🤖 AI 4 ALL  
-Repos : **IA**
-
 ## 🎵 Inspirations  
 Remember - [Berlin](https://youtu.be/TEx7Pu-Ok5E?si=DaNPJr7IRdQoD47i) - [Tiananmen](https://youtu.be/YeFzeNAHEhU?si=4xwd-Pe1vVm1Q9Xq) - [CNN](https://youtu.be/FwFduRA_L6Q?si=89fqADdOsY91VWAb)  
 Read - [Jack Ma](https://youtu.be/SSV2ynRScQA?si=fDJx-JRKYpi7Mpvt) - [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)  
