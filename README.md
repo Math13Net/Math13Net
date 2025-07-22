@@ -9,18 +9,11 @@
 On est souvent conscient de ce que l'on souhaite obtenir quand on se lance dans un nouveau projet. En revanche, il est plus rare de savoir ce que l'on veut faire différemment, et encore plus rare d'être au clair avec ce que l'on sera devenu une fois le projet abouti.  
 Pourtant, ce dernier aspect est essentiel : à quoi sert de mener à bien un projet qui vous permet d'obtenir quelque chose de plus s'il vous éloigne de celui ou celle que vous voulez être ?  
 Aussi, se poser ces 3 questions (avoir, faire, être) au début de chaque grand projet permet de vous assurer d'un chemin qui vous satisfera sur 3 niveaux : matériel, expression de soi et réalisation de soi.  
-- **oser affronter ses peurs**,
-- **agir avec éthique**,
-- **et construire un monde meilleur à son échelle**.  
-Si le code et l’intelligence artificielle permettent de résoudre des problèmes techniques, c’est notre cœur, notre courage et notre regard sur les autres qui en font un véritable changement. Alors ensemble : changeons le monde — Mi2  
 
-## 🎯 VISION - [Jack Ma](https://youtu.be/SSV2ynRScQA?si=fDJx-JRKYpi7Mpvt)
-[Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres)
+## 🎯 VISION
+[Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres) - [Jack Ma](https://youtu.be/SSV2ynRScQA?si=fDJx-JRKYpi7Mpvt)
 
 ## VALUES  
-- **⚖️ Égalité femmes et des droits LGBT** – pour une égalité réelle et une parole amplifiée  
-- **♿ Inclusion handicap** – garantir les mêmes opportunités pour tou·te·s  
-- **🎓 Plaisir & ambition** – apprendre avec rigueur, curiosité et joie  
 [Steve Jobs](https://youtu.be/UF8uR6Z6KLc?si=xFLyCVRv6Ap7-7ty) - [Arnold Schwarzenegger](https://youtu.be/1bumPyvzCyo?si=VTG2bABOH2rasW5L) - [Jack Ma 1](https://youtu.be/V-UsGuZHAMA?si=cMN2IHvhMgtcCDCf) [Jack Ma 2](https://youtu.be/U5HvuKEjH6g?si=DjGMnjSe8PzQuZ3b) - [Robbie Williams](https://youtu.be/KNl40iCABzs?si=7KwQfukcbYEoFbix) - [John Lennon](https://youtu.be/SX7GsonWTJA?si=DFGSqIUJmP8qKQC5) - [Fidji Simo](https://youtu.be/qIs60n5wtY8?si=jaLM7V382Xkc_k8M) - [Luc Julia](https://youtube.com/shorts/A2glKlB6CgM?si=dxOJfNyvD1A9hTwg) - [Rowan Atkinson](https://youtube.com/shorts/HWIIoYTOQac?si=HAKiUuZdfvd8-lIt)
 
 ## 📌 [AI 4 ALL](https://www.ai4all.com/)
@@ -42,9 +35,6 @@ Si le code et l’intelligence artificielle permettent de résoudre des problèm
 - 🌱 [have fun](https://youtu.be/CwzjlmBLfrQ) - [i wish you all success](https://youtu.be/1bumPyvzCyo) - [nothing is easy, nothing is free](https://youtu.be/SSV2ynRScQA)
 
 > “It always seems impossible until it is done.” — Nelson Mandela  
-> “ L'intégration des handicapés n'est ni une opinion politiquement correcte ni une loi votée, c'est d'abord et avant tout un état d'esprit au quotidien ” — Mi2
-
-
 
 ---
 [Journée officielle de la Gentilesse](https://www.journeedelagentillesse.ca/) - [Franck Martin](https://www.editions-eyrolles.com/auteurs/franck-martin)
