@@ -5,11 +5,6 @@
 > “Protège ton énergie. Garde le cap sur l’impact que tu veux créer. Comme Steve Jobs, concentre‑toi sur la vision. Comme Mandela, reste digne, même face à l’adversité.” — Mi2  
 > "The right time is Now", Jack Ma - [Rejection is a feed back ... The vision is your anchor](https://youtu.be/45r3EZCscWY?si=4atMDKSbhPY8RXiD) 
 
-## 💡  [Question Inspirante #486](https://www.questiologie.fr/?utm_campaign=20cb5533-647a-454e-99a4-1d5675948c85&utm_source=so&utm_medium=mail&cid=8408e0dd-5f88-4814-b8e4-8d54d3da2f71)  - Piste de réflexion : Une fois votre projet abouti, qu'aurez-vous de plus ? Que ferez-vous de différent ? Qui serez-vous devenu ?  
-On est souvent conscient de ce que l'on souhaite obtenir quand on se lance dans un nouveau projet. En revanche, il est plus rare de savoir ce que l'on veut faire différemment, et encore plus rare d'être au clair avec ce que l'on sera devenu une fois le projet abouti.  
-Pourtant, ce dernier aspect est essentiel : à quoi sert de mener à bien un projet qui vous permet d'obtenir quelque chose de plus s'il vous éloigne de celui ou celle que vous voulez être ?  
-Aussi, se poser ces 3 questions (avoir, faire, être) au début de chaque grand projet permet de vous assurer d'un chemin qui vous satisfera sur 3 niveaux : matériel, expression de soi et réalisation de soi.  
-
 ## 🎯 VISION
 [Apprendre à s'écouter - Prem Rawat](https://apprendreasecouterlivre.fr/) - [Le pouvoir de la confiance - Stephen Covey](https://www.fnac.com/a3469548/Daniel-Roche-Le-pouvoir-de-la-confiance) - [Osez votre singularité](https://www.eyrolles.com/Loisirs/Livre/osez-votre-singularite-9782416005770/) - [L'IA, ses biais et les notres](https://editionsdufaubourg.fr/livre/lintelligence-artificielle-ses-biais-et-les-notres) - [Jack Ma](https://youtu.be/SSV2ynRScQA?si=fDJx-JRKYpi7Mpvt)
 
