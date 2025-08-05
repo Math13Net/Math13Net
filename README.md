@@ -6,6 +6,6 @@
 Sur quoi se fonde en priorité votre motivation ?  
 Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 
-[Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le CONsultant](https://editionsgouttedor.com/catalogue/le-consultant/)
+[Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le conSULTANT](https://editionsgouttedor.com/catalogue/le-consultant/)
   
 *(C) 2025 – Mi2
