@@ -15,10 +15,6 @@ Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/ineg
 * Au rythme actuel, il faudrait plus de deux siècles pour mettre fin à la pauvreté
 * Dans à peine 10 ans nous pourrions voir pour la première fois la fortune d’un multimilliardaire franchir le cap des 1 000 milliards de dollars. Avoir 1 000 milliards, c’est comme gagner plus d’un million d’euros par jour depuis la naissance de Jésus-Christ.  
 
-## France
-Les quatre milliardaires français les plus riches et leurs familles – la famille Arnault, la famille Bettencourt Meyers, Gérard et Alain Wertheimer – ont vu leur fortune augmenter de 87 % depuis 2020. Dans le même temps, la richesse cumulée de 90% des Français a baissé.  
-[Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le conSULTANT](https://editionsgouttedor.com/catalogue/le-consultant/)  
-
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
 *(C) 2025 – Mi2 - [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0)
