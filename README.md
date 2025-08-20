@@ -11,7 +11,7 @@ Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 [Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le conSULTANT](https://editionsgouttedor.com/catalogue/le-consultant/)  
 
 Can you really change the world following the rules ?  
-Répartition des richesses mondiales :  
+Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/inegalites-et-justice-fiscale/multinationales-et-inegalites-multiples/#:~:text=Les%201%20%25%20les%20plus%20riches,21%20%25%20de%20la%20population%20mondiale.))  
 * La fortune des 5 hommes les plus riches a grimpé de 114 % depuis 2020.
 * La fortune des milliardaires a augmenté de 3 300 milliards de dollars depuis 2020, à une vitesse 3 fois plus rapide que celle de l’inflation.
 * Les 1 % les plus riches possèdent 48 % de tous les actifs financiers mondiaux.
