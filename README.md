@@ -10,6 +10,16 @@ Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 
 [Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le conSULTANT](https://editionsgouttedor.com/catalogue/le-consultant/)  
 
+Can you really change the world following the rules ?  
+Répartition des richesses mondiales :  
+* La fortune des 5 hommes les plus riches a grimpé de 114 % depuis 2020.
+* La fortune des milliardaires a augmenté de 3 300 milliards de dollars depuis 2020, à une vitesse 3 fois plus rapide que celle de l’inflation.
+* Les 1 % les plus riches possèdent 48 % de tous les actifs financiers mondiaux.
+* Les pays riches du Nord détiennent 69 % des richesses mondiales et accueillent 74 % des richesses des milliardaires alors qu’ils n’abritent que 21 % de la population mondiale.
+* Au rythme actuel, il faudrait plus de deux siècles pour mettre fin à la pauvreté, mais dans à peine 10 ans nous pourrions voir pour la première fois la fortune d’un multimilliardaire franchir le cap des 1 000 milliards de dollars. Avoir 1 000 milliards, c’est comme gagner plus d’un million d’euros par jour depuis la naissance de Jésus-Christ.
+Sept des dix plus grandes entreprises mondiales sont dirigées par un·e milliardaire.
+* 148 grandes entreprises ont réalisé 1800 milliards de dollars de bénéfices cumulés – soit 52 % de plus en moyenne sur les 3 dernières années – et distribué d’énormes dividendes à de riches actionnaires tandis que des centaines de millions de personnes ont été confrontées à des réductions de salaires réels.
+
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
 *(C) 2025 – Mi2 - [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0)
