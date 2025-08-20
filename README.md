@@ -12,4 +12,4 @@ Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
-*(C) 2025 – Mi2
+*(C) 2025 – Mi2 - [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0)
