@@ -8,8 +8,6 @@
 Sur quoi se fonde en priorité votre motivation ?  
 Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 
-[Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le conSULTANT](https://editionsgouttedor.com/catalogue/le-consultant/)  
-
 ## Can you really change the world following the rules ?  
 Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/inegalites-et-justice-fiscale/multinationales-et-inegalites-multiples/#:~:text=Les%201%20%25%20les%20plus%20riches,21%20%25%20de%20la%20population%20mondiale.))  
 * La fortune des 5 hommes les plus riches a grimpé de 114 % depuis 2020.
@@ -22,7 +20,7 @@ Sept des dix plus grandes entreprises mondiales sont dirigées par un·e milliar
 
 ## France
 Les quatre milliardaires français les plus riches et leurs familles – la famille Arnault, la famille Bettencourt Meyers, Gérard et Alain Wertheimer – ont vu leur fortune augmenter de 87 % depuis 2020. Dans le même temps, la richesse cumulée de 90% des Français a baissé.  
-
+[Welcome to KILO PROF !](https://youtu.be/WmKEBn0_JrM?si=bydsJ8wJY4Mi37Je) - [Le conSULTANT](https://editionsgouttedor.com/catalogue/le-consultant/)  
 
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
