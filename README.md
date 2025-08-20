@@ -11,12 +11,9 @@ Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 ## Can you really change the world following the rules ?  
 Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/inegalites-et-justice-fiscale/multinationales-et-inegalites-multiples/#:~:text=Les%201%20%25%20les%20plus%20riches,21%20%25%20de%20la%20population%20mondiale.))  
 * La fortune des 5 hommes les plus riches a grimpé de 114 % depuis 2020.
-* La fortune des milliardaires a augmenté de 3 300 milliards de dollars depuis 2020, à une vitesse 3 fois plus rapide que celle de l’inflation.
 * Les 1 % les plus riches possèdent 48 % de tous les actifs financiers mondiaux.
-* Les pays riches du Nord détiennent 69 % des richesses mondiales et accueillent 74 % des richesses des milliardaires alors qu’ils n’abritent que 21 % de la population mondiale.
-* Au rythme actuel, il faudrait plus de deux siècles pour mettre fin à la pauvreté, mais dans à peine 10 ans nous pourrions voir pour la première fois la fortune d’un multimilliardaire franchir le cap des 1 000 milliards de dollars. Avoir 1 000 milliards, c’est comme gagner plus d’un million d’euros par jour depuis la naissance de Jésus-Christ.
-Sept des dix plus grandes entreprises mondiales sont dirigées par un·e milliardaire.
-* 148 grandes entreprises ont réalisé 1800 milliards de dollars de bénéfices cumulés – soit 52 % de plus en moyenne sur les 3 dernières années – et distribué d’énormes dividendes à de riches actionnaires tandis que des centaines de millions de personnes ont été confrontées à des réductions de salaires réels.
+* Au rythme actuel, il faudrait plus de deux siècles pour mettre fin à la pauvreté
+* Dans à peine 10 ans nous pourrions voir pour la première fois la fortune d’un multimilliardaire franchir le cap des 1 000 milliards de dollars. Avoir 1 000 milliards, c’est comme gagner plus d’un million d’euros par jour depuis la naissance de Jésus-Christ.  
 
 ## France
 Les quatre milliardaires français les plus riches et leurs familles – la famille Arnault, la famille Bettencourt Meyers, Gérard et Alain Wertheimer – ont vu leur fortune augmenter de 87 % depuis 2020. Dans le même temps, la richesse cumulée de 90% des Français a baissé.  
