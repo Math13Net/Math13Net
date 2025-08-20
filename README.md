@@ -20,6 +20,10 @@ Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/ineg
 Sept des dix plus grandes entreprises mondiales sont dirigées par un·e milliardaire.
 * 148 grandes entreprises ont réalisé 1800 milliards de dollars de bénéfices cumulés – soit 52 % de plus en moyenne sur les 3 dernières années – et distribué d’énormes dividendes à de riches actionnaires tandis que des centaines de millions de personnes ont été confrontées à des réductions de salaires réels.
 
+## France
+Les quatre milliardaires français les plus riches et leurs familles – la famille Arnault, la famille Bettencourt Meyers, Gérard et Alain Wertheimer – ont vu leur fortune augmenter de 87 % depuis 2020. Dans le même temps, la richesse cumulée de 90% des Français a baissé.  
+
+
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
 *(C) 2025 – Mi2 - [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0)
