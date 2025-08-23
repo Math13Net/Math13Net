@@ -17,4 +17,4 @@ Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/ineg
 
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
-*(C) 2025 – [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0)
+*(C) 2025 – [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0) - [WikiLeaks](https://wikileaks.org/)
