@@ -1,4 +1,4 @@
-# AA - [600 h pour changer de vie !](https://youtu.be/rX1fjyX3mGU?si=_yPK_-CK3pKO973H) - [Le Vrai Visage du Pouvoir](https://youtu.be/UW7v1L2vpHw?si=FU5P0xuaiQ1AkPIk)  
+# AA - [600 h pour changer de vie !](https://youtu.be/rX1fjyX3mGU?si=_yPK_-CK3pKO973H)  
 ⚠️ Usage strictement privé - [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trust](https://youtu.be/llKvV8_T95M?si=iaUofuO6akBnU5pt) - [Love is all you need](https://youtu.be/_7xMfIp-irg?si=6f_3MPHx-RIfP0DE)  
 
 **People who are crazy enough to think they can change the world are the ones who do. Steve Jobs**  
@@ -9,7 +9,7 @@
 Sur quoi se fonde en priorité votre motivation ?  
 Qu’avez-vous mis en place pour ne pas vivre par hasard ?
 
-## What kind of rules you're talking about ?  
+## What kind of rules you're talking about ? - [Le Vrai Visage du Pouvoir](https://youtu.be/UW7v1L2vpHw?si=FU5P0xuaiQ1AkPIk)  
 Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/inegalites-et-justice-fiscale/multinationales-et-inegalites-multiples/#:~:text=Les%201%20%25%20les%20plus%20riches,21%20%25%20de%20la%20population%20mondiale.))  
 * La fortune des 5 hommes les plus riches a grimpé de 114 % depuis 2020.
 * Les 1 % les plus riches possèdent 48 % de tous les actifs financiers mondiaux.
