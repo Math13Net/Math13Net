@@ -18,7 +18,7 @@ Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/ineg
 * Dans à peine 10 ans nous pourrions voir pour la première fois la fortune d’un multimilliardaire franchir le cap des 1 000 milliards de dollars. Avoir 1 000 milliards, c’est comme gagner plus d’un million d’euros par jour depuis la naissance de Jésus-Christ.  
 
 ### [Psychologie du Totalitarisme](https://youtu.be/HS5_uyTNpZs?si=ljvPYRatCHZvAn2J)  
-How can people become so blind ? - Mattias Desmet  
+How can people become so blind ? Mattias Desmet  
 
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
