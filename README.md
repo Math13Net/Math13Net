@@ -19,9 +19,7 @@ Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/ineg
 
 ### [Psychologie du Totalitarisme](https://youtu.be/HS5_uyTNpZs?si=ljvPYRatCHZvAn2J)  
 How can people become so blind ? Mattias Desmet  
-Il faut cultiver le courage de la vérité - ChatGPT  
 
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
 *(C) 2025 – [in memory of Aaron Swartz](https://youtu.be/9vz06QO3UkQ?si=_tqruJHnmn-N4KS0) - [Disclose](https://disclose.ngo/fr)  
-177 femmes policières ou gendarmes accusent un membre des forces de l’ordre de harcèlement sexuel, agression sexuelle ou viol, depuis 2012, révèle Disclose. Dans la plupart des cas, les mis en cause ont été protégés par leur hiérarchie.  
