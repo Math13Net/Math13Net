@@ -2,6 +2,7 @@
 ⚠️ Usage strictement privé - [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trust](https://youtu.be/llKvV8_T95M?si=iaUofuO6akBnU5pt) - [Love is all you need](https://youtu.be/_7xMfIp-irg?si=6f_3MPHx-RIfP0DE)  
 
 **People who are crazy enough to think they can change the world are the ones who do. Steve Jobs**  
+**Nous sommes ce que nous mangeons (nourriture physique, émotionnelle, intellectuelle et spirituelle). Ariane Bilheran**  
 
 [Life](https://youtu.be/kYfNvmF0Bqw?si=k5fuCeQx4MoDPxsx) - [Road](https://youtu.be/bB28ah9AOUQ?si=tnzltuC5I3lLhEYQ) - [Allons voir](https://youtu.be/ykpDVaMHGT4?si=T2F9VeuBz-_onayP) - [Explore](https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-3208&cy=-8930&cz=2898&lx=-0.2059&ly=-0.6299&lz=-0.5451&lw=0.5135&ml=300&s=1.75&l=1&v=d50_clean)
 
