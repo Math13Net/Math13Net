@@ -1,4 +1,5 @@
 # AA - [600 h pour changer de vie !](https://youtu.be/rX1fjyX3mGU?si=_yPK_-CK3pKO973H)  
+[Souriez, vous êtes filmés (en France)](https://disclose.ngo/fr/article/la-police-nationale-utilise-illegalement-un-logiciel-israelien-de-reconnaissance-faciale)  
 ⚠️ Usage strictement privé - [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trust](https://youtu.be/llKvV8_T95M?si=iaUofuO6akBnU5pt) - [Love is all you need](https://youtu.be/_7xMfIp-irg?si=6f_3MPHx-RIfP0DE)  
 
 **People who are crazy enough to think they can change the world are the ones who do. Steve Jobs**  
