@@ -19,6 +19,7 @@ Répartition des richesses mondiales ([source Oxfam 2024](https://www.C.org/ineg
 
 ### [Psychologie du Totalitarisme](https://youtu.be/HS5_uyTNpZs?si=ljvPYRatCHZvAn2J)  
 How can people become so blind ? Mattias Desmet  
+Il faut cultiver le courage de la vérité - ChatGPT  
 
 [4.32](https://youtu.be/uHM88mZ4k50?si=9V0EzvmcXbltdM8W)
   
