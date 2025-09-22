@@ -5,7 +5,6 @@
 ![Yo ! Lo !](https://github.com/Math13Net/ultralytics/blob/main/interesting.png "Hello World")
 
 
-## 1989
-[Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)
+## 1989 [Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)  
  
 *(C) 2025 – [Disclose](https://disclose.ngo/fr)  
