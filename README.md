@@ -11,5 +11,10 @@
 ## 2050 : [3 min pour comprendre](https://youtu.be/faefq2L9b84?si=SzTC7gs2A5AinakQ)
 
 # [Pour les jeunes !](https://youtu.be/nSWfyx7pgfk?si=aDbhQ_yMhUUgw6Zx)
+
+Réussir professionnellement, c’est maîtriser le monde extérieur.  
+Réussir sa vie, c’est apprivoiser son monde intérieur.  
+ChatGPT
+
  
 *(C) 2025 – [Disclose](https://disclose.ngo/fr)  
