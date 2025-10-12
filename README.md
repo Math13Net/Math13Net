@@ -1,5 +1,5 @@
 # [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trying to affect change](https://youtu.be/XcG6CpxKFnU?si=bR8iyD-ux8ZpVTKn) - [Think different](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
-[Je me fous du monde entier](https://youtu.be/9wQ-GYnKPYM?si=qGbuNVioPYlLKL4M)
+[Peu m'importe les problèmes](https://youtu.be/9wQ-GYnKPYM?si=qGbuNVioPYlLKL4M)
 
 [« Je suis le maître de mon destin, je suis le capitaine de mon âme. » Invictus - (1875) William Ernest Henley](https://youtu.be/x5dTDpqXrfk?si=1JOMbtV6fILykcJU)
 
