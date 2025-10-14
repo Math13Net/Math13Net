@@ -18,4 +18,4 @@ Réussir sa vie, c’est apprivoiser son monde intérieur.
 ChatGPT
 
  
-*(C) 2025 – [Disclose](https://disclose.ngo/fr) - [Lutte contre le harcèlement moral entre personnels de l'Education nationale](https://helpen.fr/)
+*(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/)
