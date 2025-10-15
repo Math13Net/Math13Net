@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Ribbon_Pink.svg" alt="Octobre Rose" width="120">
-</p>
+
 
 <p align="center">
   <a href="https://octobre-rose.ligue-cancer.net/">
