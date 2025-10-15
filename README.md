@@ -1,6 +1,16 @@
 <p align="center">
-  <img src="assets/octobre_rose.png" alt="Octobre Rose" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Ribbon_Pink.svg" alt="Octobre Rose" width="120">
 </p>
+
+<p align="center">
+  <a href="https://octobre-rose.ligue-cancer.net/">
+    <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge">
+  </a>
+  <a href="https://www.cancerdusein.org/">
+    <img alt="Soutien" src="https://img.shields.io/badge/Soutien-%23ffc0cb?style=for-the-badge">
+  </a>
+</p>
+
 
 # [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trying to affect change](https://youtu.be/XcG6CpxKFnU?si=bR8iyD-ux8ZpVTKn) - [Think different](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
 [Décrocher la lune !](https://youtu.be/9wQ-GYnKPYM?si=qGbuNVioPYlLKL4M) - [Bullied](https://youtu.be/YNnHdR9DQDA?si=xZmnoKex6qjqWO7d)
