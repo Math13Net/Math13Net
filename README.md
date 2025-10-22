@@ -10,7 +10,7 @@
 </p>
 
 
-# [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trying to affect change](https://youtu.be/XcG6CpxKFnU?si=bR8iyD-ux8ZpVTKn) - [Think different](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
+# [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trying to affect change](https://youtu.be/XcG6CpxKFnU?si=bR8iyD-ux8ZpVTKn) - [Slime !](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
 “Don’t let the noise of others’ opinions drown out your own inner voice.” — Steve Jobs, Stanford, 2005  
 “I never lose. I either win or learn.” — Nelson Mandela  
   
