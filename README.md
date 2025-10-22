@@ -14,10 +14,6 @@
 “Don’t let the noise of others’ opinions drown out your own inner voice.” — Steve Jobs, Stanford, 2005  
 “I never lose. I either win or learn.” — Nelson Mandela  
   
-[Décrocher la lune !](https://youtu.be/9wQ-GYnKPYM?si=qGbuNVioPYlLKL4M) - [Bullied](https://youtu.be/YNnHdR9DQDA?si=xZmnoKex6qjqWO7d)
-
-[Invictus - 1875 - William Ernest Henley](https://youtu.be/x5dTDpqXrfk?si=1JOMbtV6fILykcJU)
-
 ![Yo ! Lo !](https://github.com/Math13Net/ultralytics/blob/main/interesting.png "Hello World")
 
 # [L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.](https://math13net.github.io/projet-non-trouve/)  
