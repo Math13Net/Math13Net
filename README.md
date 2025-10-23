@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/shorts/4rkxi3b42NU" title="Voir la vidéo YouTube Shorts">
     <img src="https://github.com/Math13Net/ultralytics/blob/main/interesting.png"
          alt="Yo ! Lo ! — Ultralytics"
-         width="360"
+         width="700"
          loading="lazy">
   </a>
 </p>
