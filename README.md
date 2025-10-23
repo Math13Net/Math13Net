@@ -1,27 +1,15 @@
 
-<!--
+
 <p align="center">
   <a href="https://octobre-rose.ligue-cancer.net/">
     <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge">
   </a>
   <a href="https://www.cancerdusein.org/">
-    <img src="https://img.shields.io/badge/Soutien-%23ffc0cb?style=for-the-badge" width="60">
+    <img src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge" style="zoom:70%;">
   </a>
 </p>
--->
 
-<p align="center">
-  <a href="https://octobre-rose.ligue-cancer.net/">
-    <picture>
-      <img src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge" style="zoom:70%;">
-    </picture>
-  </a>
-  <a href="https://www.cancerdusein.org/">
-    <picture>
-      <img src="https://img.shields.io/badge/Soutien-%23ffc0cb?style=for-the-badge" style="zoom:70%;">
-    </picture>
-  </a>
-</p>
+
 
 
 # [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Trying to affect change](https://youtu.be/XcG6CpxKFnU?si=bR8iyD-ux8ZpVTKn) - [Slime !](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
