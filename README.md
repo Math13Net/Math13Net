@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
   <a href="https://octobre-rose.ligue-cancer.net/">
     <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge">
@@ -43,3 +43,5 @@ ChatGPT
 
  
 *(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/)
+
+-->
