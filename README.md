@@ -17,9 +17,11 @@
 ![Yo ! Lo !](https://github.com/Math13Net/ultralytics/blob/main/interesting.png "Hello World")
 
 ### [](https://math13net.github.io/projet-IA-2.0/)  
-#### 🧭 Vision
+#### ✳️ Slogan
 **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.**  
 **Un projet libre, exigeant, et profondément humain.**  
+**L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
+
 #### 🧭 Synthèse
 | Élément | Phrase clé |  
 |----------|-------------|  
@@ -34,8 +36,6 @@
 | **Niche** | Low cost, high value |  
 | **Pitch** | 10 slides, 20 min, police 30 |  
 | **Conviction** | Don’t let the bozos grind you down |  
-  
-**L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
 
 ---
 
