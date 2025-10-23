@@ -16,7 +16,7 @@
   
 ![Yo ! Lo !](https://github.com/Math13Net/ultralytics/blob/main/interesting.png "Hello World")
 
-### [Projet IA 2.0](https://math13net.github.io/projet-IA-2.0/)  
+### [Projet IA 2.0 -> You're not in the club for the moment](https://math13net.github.io/projet-IA-2.0/)  
 #### ✳️ Slogan
 **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.**  
 **Un projet libre, exigeant, et profondément humain.**  
