@@ -16,8 +16,11 @@
   
 ![Yo ! Lo !](https://github.com/Math13Net/ultralytics/blob/main/interesting.png "Hello World")
 
-### [L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.](https://math13net.github.io/projet-IA-2.0/)  
-
+### [](https://math13net.github.io/projet-IA-2.0/)  
+#### 🧭 Vision
+**Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.**  
+**Un projet libre, exigeant, et profondément humain.**  
+#### 🧭 Synthèse
 | Élément | Phrase clé |  
 |----------|-------------|  
 | **Mission** | Democratize AI – L’IA pour tous |  
@@ -31,17 +34,10 @@
 | **Niche** | Low cost, high value |  
 | **Pitch** | 10 slides, 20 min, police 30 |  
 | **Conviction** | Don’t let the bozos grind you down |  
-
-#### 🧭 Synthèse
-Le **Projet IA 2.0** est une vision éducative :  
-> **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.**  
-
-C’est une pédagogie, une méthode et une philosophie.  
-Pas un produit figé, mais une idée en mouvement.  
-**Un projet libre, exigeant, et profondément humain.**
+  
+**L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
 
 ---
-
 
 ## 1989 : [Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)
 ## [Pour les jeunes !](https://youtu.be/nSWfyx7pgfk?si=aDbhQ_yMhUUgw6Zx)
