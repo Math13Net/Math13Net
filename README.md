@@ -10,11 +10,12 @@
 “I never lose. I either win or learn.” — Nelson Mandela  
 
 <p align="center">
-  <img src="https://github.com/Math13Net/ultralytics/blob/main/interesting.png"
-       alt="Yo ! Lo !"
-       title="Hello World"
-       width="700"
-       loading="lazy">
+  <a href="https://www.youtube.com/shorts/4rkxi3b42NU" title="Voir la vidéo YouTube Shorts">
+    <img src="https://github.com/Math13Net/ultralytics/blob/main/interesting.png"
+         alt="Yo ! Lo ! — Ultralytics"
+         width="360"
+         loading="lazy">
+  </a>
 </p>
 
 ### [Projet IA 2.0 -- access denied -- 🔒](https://math13net.github.io/projet-IA-2.0/)  
