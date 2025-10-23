@@ -17,7 +17,7 @@
        loading="lazy">
 </p>
 
-### [Projet IA 2.0 -> You're not in the club for the moment](https://math13net.github.io/projet-IA-2.0/)  
+### [Projet IA 2.0 -- access denied](https://math13net.github.io/projet-IA-2.0/)  
 
 ## 1989 : [Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)
 ## [Pour les jeunes !](https://youtu.be/nSWfyx7pgfk?si=aDbhQ_yMhUUgw6Zx)
