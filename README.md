@@ -13,7 +13,7 @@
   <img src="https://github.com/Math13Net/ultralytics/blob/main/interesting.png"
        alt="Yo ! Lo !"
        title="Hello World"
-       width="500"
+       width="700"
        loading="lazy">
 </p>
 
