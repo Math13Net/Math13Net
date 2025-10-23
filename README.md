@@ -1,5 +1,5 @@
 
-<!--
+
 <p align="center">
   <a href="https://octobre-rose.ligue-cancer.net/">
     <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Soutien-%23ffc0cb?style=for-the-badge" width="60">
   </a>
 </p>
--->
+
 
 <p align="center">
   <a href="https://octobre-rose.ligue-cancer.net/">
