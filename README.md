@@ -18,6 +18,30 @@
 
 ### [L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.](https://math13net.github.io/projet-IA-2.0/)  
 
+| Élément | Phrase clé |  
+|----------|-------------|  
+| **Mission** | Democratize AI – L’IA pour tous |  
+| **Mantra** | Change the World with AI |  
+| **Saut de courbe** | Teach differently with technology |  
+| **Qualité** | Deep • Intelligent • Complete • Empowering • Elegant |  
+| **Esprit** | Don’t worry, be crappy |  
+| **Ouverture** | Let hundred flowers blossom |  
+| **Positionnement** | Polarize people |  
+| **Résilience** | Churn, baby, churn |  
+| **Niche** | Low cost, high value |  
+| **Pitch** | 10 slides, 20 min, police 30 |  
+| **Conviction** | Don’t let the bozos grind you down |  
+
+#### 🧭 Synthèse
+Le **Projet IA 2.0** est une vision éducative :  
+> **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.**  
+
+C’est une pédagogie, une méthode et une philosophie.  
+Pas un produit figé, mais une idée en mouvement.  
+**Un projet libre, exigeant, et profondément humain.**
+
+---
+
 
 ## 1989 : [Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)
 ## [Pour les jeunes !](https://youtu.be/nSWfyx7pgfk?si=aDbhQ_yMhUUgw6Zx)
