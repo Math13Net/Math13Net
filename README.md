@@ -4,9 +4,6 @@
   <a href="https://octobre-rose.ligue-cancer.net/">
     <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge">
   </a>
-  <a href="https://www.cancerdusein.org/">
-    <img src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=for-the-badge">
-  </a>
 </p>
 
 
