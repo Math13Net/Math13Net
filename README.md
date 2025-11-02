@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://octobre-rose.ligue-cancer.net/">
+  <a href="https://mois-sans-tabac.tabac-info-service.fr/">
     <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=flat-square">
   </a>
 </p>
