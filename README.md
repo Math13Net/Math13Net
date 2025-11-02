@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://mois-sans-tabac.tabac-info-service.fr/">
-    <img alt="Octobre Rose" src="https://img.shields.io/badge/Octobre%20Rose-%23ff69b4?style=flat-square">
+    <img alt="Octobre Rose" src="https://github.com/Math13Net/seconde/blob/master/logo-mst.png">
   </a>
 </p>
 
