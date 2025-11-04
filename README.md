@@ -4,7 +4,7 @@
     <img alt="Octobre Rose" src="https://github.com/Math13Net/seconde/blob/master/logo-mst.png" width="200">
   </a>
   <a href="https://www.blogdumoderateur.com/github-typescript-langage-utilise-plateforme-2025/">
-    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/language.png" width="500">
+    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/language.png" width="300">
   </a>  
 </p>
 
