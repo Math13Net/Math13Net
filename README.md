@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://mois-sans-tabac.tabac-info-service.fr/">
     <img alt="Octobre Rose" src="https://github.com/Math13Net/seconde/blob/master/logo-mst.png" width="100">
+    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/language.png" width="200">
   </a>
 </p>
 
