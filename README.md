@@ -2,8 +2,10 @@
 <p align="center">
   <a href="https://mois-sans-tabac.tabac-info-service.fr/">
     <img alt="Octobre Rose" src="https://github.com/Math13Net/seconde/blob/master/logo-mst.png" width="200">
-    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/language.png" width="500">
   </a>
+  <a href="https://www.blogdumoderateur.com/github-typescript-langage-utilise-plateforme-2025/">
+    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/language.png" width="500">
+  </a>  
 </p>
 
 # [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Let you failure teach you](https://youtube.com/shorts/asPwgXlr0bI?si=yFgkwdW0ynVPnp3B) - [Smile !](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
