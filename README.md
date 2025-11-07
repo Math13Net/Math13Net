@@ -23,7 +23,7 @@ Linus Torvarlds - "En général, la meilleure façon d'apprendre [NDT] est proba
   </a>
 </p>
 
-### [Welcome in the New World](https://math13net.github.io/projet-IA-2.0/) - 
+### [Welcome in the New World](https://math13net.github.io/projet-IA-2.0/)  
 [La nouvelle révolution IA par Yann Le Cun](https://youtu.be/Z208NMP7_-0?si=Jo1lqgmnt5BbmYsK)  
 
 ## 1989 : [Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)
