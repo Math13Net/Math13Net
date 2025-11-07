@@ -29,10 +29,9 @@ Linus Torvarlds - "En général, la meilleure façon d'apprendre [NDT] est proba
 ## 1989 : [Europ](https://youtu.be/FqIEdv3Q3-M?si=DxSXhdzeDDg9gb6T) - [China](https://youtu.be/YeFzeNAHEhU?si=qtgCgs-NC1ovtoof) - [USA](https://youtu.be/FwFduRA_L6Q?si=sveJlYF2nS3J2SC9)
 ## [Pour les jeunes !](https://youtu.be/nSWfyx7pgfk?si=aDbhQ_yMhUUgw6Zx)
 
-Réussir professionnellement, c’est maîtriser le monde extérieur. Réussir sa vie, c’est apprivoiser son monde intérieur. ChatGPT  
-Etonnant, non ?  
-[Rien n'a changé](https://youtu.be/u9RkKe22TnI?si=rU3yZxxHRiH8wkJ5) - [Skake your jewels](https://youtu.be/8S3x8w3SoX4?si=yavkOvzKlOla1BDc) - [Et si on arrêtait de mentir ?](https://youtu.be/ib6nlditz9o?si=W1Ss1DG_Za0Yqabe) 
-
+Réussir professionnellement, c’est maîtriser le monde extérieur.  
+Réussir sa vie, c’est apprivoiser son monde intérieur.  
+ChatGPT  
 
 *(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/) -  
 
