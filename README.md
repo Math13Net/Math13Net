@@ -35,7 +35,7 @@ ChatGPT
 
 *(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/) -  
 
-[Non Non Rien n'a changé](https://youtu.be/u9RkKe22TnI?si=rU3yZxxHRiH8wkJ5) - [Skake your jewels](https://youtu.be/8S3x8w3SoX4?si=yavkOvzKlOla1BDc)  
+[Rien n'a changé](https://youtu.be/u9RkKe22TnI?si=rU3yZxxHRiH8wkJ5) - [Skake your jewels](https://youtu.be/8S3x8w3SoX4?si=yavkOvzKlOla1BDc)  
 
 
 
