@@ -33,7 +33,7 @@ Réussir professionnellement, c’est maîtriser le monde extérieur.
 Réussir sa vie, c’est apprivoiser son monde intérieur.  
 ChatGPT  
 
-*(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/) -  
+*(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/) - [C quand que tu BOUGES ???](https://youtube.com/shorts/dLMFf6Zn5_Q?si=VFOlB_FJUpPrEjJD) 
 
 
 
