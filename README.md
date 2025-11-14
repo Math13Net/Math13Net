@@ -8,8 +8,8 @@
   </a>  
 </p>
 
-Linus Torvarlds - "En général, la meilleure façon d'apprendre [NDT] est probablement de commencer par ne faire que des choses très basiques et de ne même pas regarder certaines des choses que vous pouvez faire jusqu'à ce que vous soyez familier et confiant avec les bases."  
-Edsger W. Dijkstra - "In a society in which the educational system is used as an instrument for the establishment of a homogenized culture, in which the cream is prevented from rising to the top, the education of competent programmers could be politically impalatable."  
+**Linus Torvarlds** - "En général, la meilleure façon d'apprendre [NDT] est probablement de commencer par ne faire que des choses très basiques et de ne même pas regarder certaines des choses que vous pouvez faire jusqu'à ce que vous soyez familier et confiant avec les bases."  
+**Edsger W. Dijkstra** - "In a society in which the educational system is used as an instrument for the establishment of a homogenized culture, in which the cream is prevented from rising to the top, the education of competent programmers could be politically impalatable."  
 
 # [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Let you failure teach you](https://youtube.com/shorts/asPwgXlr0bI?si=yFgkwdW0ynVPnp3B) - [Smile !](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
 “Don’t let the noise of others’ opinions drown out your own inner voice.” — Steve Jobs, Stanford, 2005  
