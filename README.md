@@ -3,8 +3,8 @@
   <a href="https://mois-sans-tabac.tabac-info-service.fr/">
     <img alt="Octobre Rose" src="https://github.com/Math13Net/seconde/blob/master/logo-mst.png" width="200">
   </a>
-  <a href="https://www.blogdumoderateur.com/github-typescript-langage-utilise-plateforme-2025/">
-    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/language.png" width="300">
+  <a href="https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants">
+    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/github.png" width="300">
   </a>  
 </p>
 
