@@ -10,7 +10,7 @@
 
 **Linus Torvarlds** - "En général, la meilleure façon d'apprendre [NDT] est probablement de commencer par ne faire que des choses très basiques et de ne même pas regarder certaines des choses que vous pouvez faire jusqu'à ce que vous soyez familier et confiant avec les bases."  
 **Edsger W. Dijkstra** - "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."  
-[AI Slop](https://youtu.be/vrTrOCQZoQE?si=MeP8U0WwmbVKQD4G)
+[The Problem with A.I. Slop! - Computerphile](https://youtu.be/vrTrOCQZoQE?si=MeP8U0WwmbVKQD4G)
 
 # [Think different](https://youtu.be/JHFrR6sD6gw?si=4lZNLp5rvtaKNM9p) - [Let you failure teach you](https://youtube.com/shorts/asPwgXlr0bI?si=yFgkwdW0ynVPnp3B) - [Smile !](https://youtu.be/kMpXyi6L5tc?si=oSxfYEhRz8CaZkZ1)
 “Don’t let the noise of others’ opinions drown out your own inner voice.” — Steve Jobs, Stanford, 2005  
