@@ -35,7 +35,7 @@ Réussir professionnellement, c’est maîtriser le monde extérieur.
 Réussir sa vie, c’est apprivoiser son monde intérieur.  
 ChatGPT  
 
-*(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/) - [TOT ou TARD, les choses changent](https://youtube.com/shorts/dLMFf6Zn5_Q?si=VFOlB_FJUpPrEjJD) - [Plus rien ne m'étonne](https://youtu.be/Pc2yX2t2teQ?si=5CVSkhYkCr0L_cG7)
+*(C) 2025 – [Disclose](https://disclose.ngo/fr) - [HELPEN](https://helpen.fr/) - [TOT ou TARD, les choses changent](https://youtube.com/shorts/dLMFf6Zn5_Q?si=VFOlB_FJUpPrEjJD) - [Plus rien ne m'étonne](https://youtu.be/Pc2yX2t2teQ?si=5CVSkhYkCr0L_cG7) - [Your Time Is Limited](https://youtu.be/9yB6C0KByqA?si=GO9FZyRQAkHdnI0K)
 
 
 
