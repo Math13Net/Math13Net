@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://mois-sans-tabac.tabac-info-service.fr/">
-    <img alt="Belle année 2026" src="https://github.com/Math13Net/seconde/blob/master/logo-mst.png" width="200">
+    <img alt="Belle année 2026" src="https://github.com/Math13Net/Math13Net/blob/main/2026.png" width="200">
   </a>
   <a href="https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants">
     <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/github.png" width="300">
