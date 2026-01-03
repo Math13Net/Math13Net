@@ -3,9 +3,6 @@
   <a href="https://mois-sans-tabac.tabac-info-service.fr/">
     <img alt="Belle année 2026" src="https://github.com/Math13Net/Math13Net/blob/main/2026.png" width="200">
   </a>
-  <a href="https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants">
-    <img alt="Type Script" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/github.png" width="300">
-  </a>  
 </p>
 
 **Linus Torvarlds** - "En général, la meilleure façon d'apprendre [NDT] est probablement de commencer par ne faire que des choses très basiques et de ne même pas regarder certaines des choses que vous pouvez faire jusqu'à ce que vous soyez familier et confiant avec les bases."  
